@@ -21,7 +21,7 @@ This userscript enhances the ChatGPT web interface with several powerful feature
 
 ### How to Install:
 1. Install Tampermonkey or Greasemonkey in your browser.
-2. Download the script directly from [GitHub](https://github.com/yourusername/chatgpt-enhancer).
+2. Download the script directly from [GitHub](https://github.com/konhz/chatgpt-enhancer).
 3. The script will automatically run when you visit ChatGPT’s web interface.
 
 ### Open Source:
@@ -45,7 +45,7 @@ This script was created with the help of ChatGPT, making it an efficient and tai
 
 ### 安装步骤：
 1. 安装浏览器扩展 Tampermonkey 或 Greasemonkey。
-2. 直接从 [GitHub](https://github.com/yourusername/chatgpt-enhancer) 下载脚本。
+2. 直接从 [GitHub](https://github.com/konhz/chatgpt-enhancer) 下载脚本。
 3. 访问 ChatGPT 网页时，脚本将自动运行。
 
 ### 开源协议：
