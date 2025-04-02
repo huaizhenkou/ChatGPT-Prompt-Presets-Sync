@@ -18,9 +18,14 @@ This userscript enhances the ChatGPT web interface with several powerful feature
   ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/ModelMenuMerge.png)
   
 - **Wide-Screen Conversations**: Enables a wide-screen view of the conversation area, giving you more space to interact with ChatGPT.
+
+![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/Wide-ScreenConversations.png)
+  
 - **Customizable Prompt Presets**: Adds customizable prompt presets with floating buttons above the input field for quick insertion.
+
+![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/CustomizablePromptPresets.png)
+  
 - **Dark/Light Theme Adaptation**: The script automatically adapts to ChatGPT's theme changes (dark/light mode).
-- **Draggable Settings Panel**: A user-friendly, draggable settings panel to customize features.
 
 ### How to Install:
 1. Install Tampermonkey or Greasemonkey in your browser.
@@ -44,7 +49,6 @@ This script was created with the help of ChatGPT, making it an efficient and tai
 - **宽屏对话**：启用宽屏对话视图，提供更多与 ChatGPT 互动的空间。
 - **可定制的 Prompt 预设**：在输入框上方添加可定制的 Prompt 预设浮动按钮，方便快速插入。
 - **暗/浅色模式适配**：脚本自动适应 ChatGPT 的主题切换（暗色/浅色模式）。
-- **可拖动设置面板**：提供一个用户友好的、可拖动的设置面板，方便自定义功能。
 
 ### 安装步骤：
 1. 安装浏览器扩展 Tampermonkey 或 Greasemonkey。
