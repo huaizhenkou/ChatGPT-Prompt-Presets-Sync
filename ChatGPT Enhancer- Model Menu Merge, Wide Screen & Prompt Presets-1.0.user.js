@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Enhance ChatGPT experience by merging the model menu, enabling wide-screen conversations, and adding customizable prompt presets.
-// @author       Your Name
+// @author       Konhz
 // @match        https://chatgpt.com/*
 // @grant        none
 // @updateURL    https://github.com/konhz/chatgpt-enhancer/raw/main/script.user.js
