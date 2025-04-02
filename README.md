@@ -14,6 +14,7 @@ This userscript enhances the ChatGPT web interface with several powerful feature
 
 ### Features:
 - **Model Menu Merge**: Automatically merges the "More Models" submenu into the main model menu for faster access to all available models.
+  ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/images/CustomizablePromptPresets.png)
 - **Wide-Screen Conversations**: Enables a wide-screen view of the conversation area, giving you more space to interact with ChatGPT.
 - **Customizable Prompt Presets**: Adds customizable prompt presets with floating buttons above the input field for quick insertion.
 - **Dark/Light Theme Adaptation**: The script automatically adapts to ChatGPT's theme changes (dark/light mode).
