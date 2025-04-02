@@ -1,4 +1,4 @@
-# ChatGPT Enhancer: Model Menu Merge, Wide Screen & Prompt Presets
+# ChatGPT Enhancer (Tampermonkey): Model Menu Merge, Wide Screen & Prompt Presets
 
 Welcome to the **ChatGPT Enhancer** project! This repository provides a userscript that enhances the ChatGPT web interface with several powerful features.
 
