@@ -12,11 +12,7 @@ Welcome to the **ChatGPT Enhancer** project! This repository provides a userscri
 
 This userscript enhances the ChatGPT web interface with several powerful features:
 
-### Features:
-- **Model Menu Merge**: Automatically merges the "More Models" submenu into the main model menu for faster access to all available models.
-  
-  ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/ModelMenuMerge.png)
-  
+### Features: 
 - **Wide-Screen Conversations**: Enables a wide-screen view of the conversation area, giving you more space to interact with ChatGPT.
 
 ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/Wide-ScreenConversations.png)
@@ -45,9 +41,14 @@ This script was created with the help of ChatGPT, making it an efficient and tai
 此用户脚本为 ChatGPT 网页界面带来多个强大功能：
 
 ### 功能特性：
-- **模型菜单合并**：自动将“更多模型”子菜单合并到主模型菜单中，快速访问所有可用模型。
 - **宽屏对话**：启用宽屏对话视图，提供更多与 ChatGPT 互动的空间。
+
+![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/Wide-ScreenConversations.png)
+  
 - **可定制的 Prompt 预设**：在输入框上方添加可定制的 Prompt 预设浮动按钮，方便快速插入。
+
+![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/CustomizablePromptPresets.png)
+  
 - **暗/浅色模式适配**：脚本自动适应 ChatGPT 的主题切换（暗色/浅色模式）。
 
 ### 安装步骤：
