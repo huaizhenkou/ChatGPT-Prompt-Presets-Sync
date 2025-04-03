@@ -1,6 +1,6 @@
-# ChatGPT Enhancer (Tampermonkey): Model Menu Merge, Wide Screen & Prompt Presets
+# ChatGPT Prompt Presets & Sync
 
-Welcome to the **ChatGPT Enhancer** project! This repository provides a userscript that enhances the ChatGPT web interface with several powerful features.
+Welcome to the **ChatGPT Prompt Presets & Sync** project! This repository provides a userscript that enhances the ChatGPT web interface with several powerful features.
 
 ## Table of Contents
 - [English Version](#english-version)
@@ -17,7 +17,7 @@ This userscript enhances the ChatGPT web interface with several powerful feature
 
 ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/Wide-ScreenConversations.png)
   
-- **Customizable Prompt Presets**: Adds customizable prompt presets with floating buttons above the input field for quick insertion.
+- **Customizable Prompt Presets**: Floating buttons above the input field enable quick insertion of common prompts. Includes features for managing presets (add/edit/delete), JSON import/export, and cloud sync via GitHub Gist with persistent ID/token storage.
 
 ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/CustomizablePromptPresets.png)
   
@@ -45,7 +45,7 @@ This script was created with the help of ChatGPT, making it an efficient and tai
 
 ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/Wide-ScreenConversations.png)
   
-- **可定制的 Prompt 预设**：在输入框上方添加可定制的 Prompt 预设浮动按钮，方便快速插入。
+- **可定制的 Prompt 预设**：在输入框上方显示浮动按钮，支持快速插入常用提示词。支持自定义添加、编辑、删除预设，导入导出为 JSON 文件，并通过 GitHub Gist 实现云端同步及自动记忆。
 
 ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/CustomizablePromptPresets.png)
   
