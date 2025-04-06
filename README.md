@@ -23,6 +23,8 @@ This userscript enhances the ChatGPT web interface with several powerful feature
   
 - **Dark/Light Theme Adaptation**: The script automatically adapts to ChatGPT's theme changes (dark/light mode).
 
+- **Multi-language Support**: The interface automatically adapts to your browser language. Currently supports English, 中文.
+
 ### How to Install:
 1. Install Tampermonkey or Greasemonkey in your browser.
 2. Download the script directly from [GitHub](https://github.com/konhz/chatgpt-enhancer).
@@ -50,6 +52,8 @@ This script was created with the help of ChatGPT, making it an efficient and tai
 ![ChatGPT Screenshot](https://github.com/konhz/chatgpt-enhancer/blob/main/images/CustomizablePromptPresets.png)
   
 - **暗/浅色模式适配**：脚本自动适应 ChatGPT 的主题切换（暗色/浅色模式）。
+
+- **多语言支持**：界面自动适配浏览器语言。目前支持英文和中文。
 
 ### 安装步骤：
 1. 安装浏览器扩展 Tampermonkey 或 Greasemonkey。
