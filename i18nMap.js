@@ -1,4 +1,4 @@
-const i18nMap = {
+window.i18nMap = {
     zh: {
         settingsTitle: "ChatGPT 自定义设置",
         chatWidthLabel: "对话区域宽度",
@@ -82,6 +82,3 @@ const i18nMap = {
         gistToken: "GitHub Token：",
     }
 };
-
-// 模块导出（适用于浏览器引入）
-window.i18nMap = i18nMap;
